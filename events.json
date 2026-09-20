@@ -1,0 +1,30 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub.",
+    "language": "HTML",
+    "stars": 15200,
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code, a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 210000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source docs for GitHub.",
+    "language": "Markdown",
+    "stars": 42000,
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Learn to code for free with a community of millions of people.",
+    "language": "JavaScript",
+    "stars": 408000,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  }
+]
