@@ -26,6 +26,18 @@ h1 {
   font-size: 1.05rem;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .repo-list {
   list-style: none;
   margin: 0;
@@ -99,6 +111,14 @@ h1 {
   color: #cf222e;
   background: #fff1f3;
   border: 1px solid #ffb3ba;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.empty-state {
+  color: #57606a;
+  background: #ffffff;
+  border: 1px dashed #d0d7de;
   border-radius: 8px;
   padding: 16px;
 }
